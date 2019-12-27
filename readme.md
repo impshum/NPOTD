@@ -16,7 +16,7 @@ Downloads NASA picture of the day to your chosen desktop background folder. Also
 -   `single_mode = on` - Only keeps 1 image in the folder (deletes all others)
 -   `single_mode = off` - Adds images to folder (collects all)
 -   `hd_mode` - Choose between high/low quality images
--   `download_dir` - The folder where the images are downloaded to
+-   `download_dir` - The folder where the images are downloaded to (full path)
 
 #### Archive Info
 
