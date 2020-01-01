@@ -28,3 +28,7 @@ Downloads NASA picture of the day to your chosen desktop background folder. Also
 
 This script is designed to work with a selected folder.   
 If in single mode your desktop background will change automatically when a new image is downloaded. If not it's advised to randomise your background from the folder.
+
+---
+
+BTC - 1AYSiE7mhR9XshtS4mU2rRoAGxN8wSo4tK
